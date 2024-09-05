@@ -7,3 +7,5 @@
 4. Run the app using "uvicorn main:app" command
 
 YOU ARE GOOD TO GO 😊😊😊
+
+*only works on amazon and flipkart products for now*

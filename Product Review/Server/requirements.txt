@@ -1,0 +1,17 @@
+uvicorn[standard]
+python-multipart==0.0.7
+pydantic
+fastapi==0.73.0
+
+pandas
+requests
+beautifulsoup4
+bs4
+lxml
+
+torch
+transformers
+sentencepiece
+protobuf
+
+groq

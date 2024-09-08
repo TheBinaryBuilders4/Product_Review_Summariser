@@ -1,0 +1,9 @@
+.env
+.vscode
+.venv
+ML_models/Loss-Fold-2.bin
+__pycache__
+env
+.pyc
+.ipynb_checkpoints
+.cpython-311.pyc
